@@ -1,17 +1,17 @@
-site: Sidey
+site: JS Site
 url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+title: JS Site
+description: Personal site of Jerry S
 twitter:
-  username: #yourusername
+  username: jerrysun_
   card: summary
   creator: #yourusername
 author:
-  twitter: #yourusername
+  twitter: jerrysun_
   name: #yourusername
   avatar:
   email: #youremail
-  url: #yoururl
+  url: www.jerrysun.me
 permalink: pretty
 
 baseurl: ""
