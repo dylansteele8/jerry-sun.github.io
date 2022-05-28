@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+---
+
 Hey there. Welcome to my page.
 
 I'm a research analyst at <a href="https://www.messari.io">Messari</a>, a crypto investment research and data analytics firm based in New York. 
