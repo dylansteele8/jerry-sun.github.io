@@ -2,29 +2,31 @@
 layout: null
 ---
 [
-  {% for post in site.posts.writings %}
-    {
+  {% for post in site.posts %}
+    {% if post.path contains 'writings'%}
+      {
 
-      "title"    : "{{ post.title | strip_html | escape }}",
-      "description" : "{{ post.description | escape }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "category" : "{{post.categories | join: ', '}}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "date"     : "{{ post.date }}"
+        "title"    : "{{ post.title | strip_html | escape }}",
+        "description" : "{{ post.description | escape }}",
+        "url"      : "{{ site.baseurl }}{{ post.url }}",
+        "category" : "{{post.categories | join: ', '}}",
+        "tags"     : "{{ post.tags | join: ', ' }}",
+        "date"     : "{{ post.date }}"
 
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-  ,
-  {% for post in site.posts.travels %}
-    {
+      } {% unless forloop.last %},{% endunless %}
+    {% endif %}
 
-      "title"    : "{{ post.title | strip_html | escape }}",
-      "description" : "{{ post.description | escape }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "category" : "{{post.categories | join: ', '}}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "date"     : "{{ post.date }}"
+    {% if post.path contains 'travels'%}
+      {
 
-    } {% unless forloop.last %},{% endunless %}
+        "title"    : "{{ post.title | strip_html | escape }}",
+        "description" : "{{ post.description | escape }}",
+        "url"      : "{{ site.baseurl }}{{ post.url }}",
+        "category" : "{{post.categories | join: ', '}}",
+        "tags"     : "{{ post.tags | join: ', ' }}",
+        "date"     : "{{ post.date }}"
+
+      } {% unless forloop.last %},{% endunless %}
+    {% endif %}
   {% endfor %}
 ]
