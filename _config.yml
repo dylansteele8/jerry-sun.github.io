@@ -1,7 +1,7 @@
-site: JS Site
+site: JS
 url: #yoururl
-title: JS Site
-description: Personal site of Jerry S
+title: JS
+description: Personal site
 twitter:
   username: jerrysun_
   card: summary
@@ -38,10 +38,10 @@ collections:
   pages:
     output: true
     permalink: /:name
-  posts:
+  posts.writings:
     output: true
     permalink: /:year/:month/:day/:slug
-  travels:
+  posts.travels:
     output: true
     permalink: /:year/:month/:day/:slug
   
