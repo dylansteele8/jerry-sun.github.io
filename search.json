@@ -2,7 +2,7 @@
 layout: null
 ---
 [
-  {% for post in site.posts %}
+  {% for post in site.posts or site.travels%}
     {
 
       "title"    : "{{ post.title | strip_html | escape }}",
