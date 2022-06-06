@@ -35,6 +35,10 @@ plugins:
   - jekyll-sitemap  
 
 collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
     writings:
       output: true
       permalink: /:year/:month/:day/:slug       
