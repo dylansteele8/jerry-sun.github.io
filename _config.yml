@@ -35,13 +35,14 @@ plugins:
   - jekyll-sitemap  
 
 collections:
+  collections_dir: pages
   pages:
     output: true
     permalink: /:name
-  posts.writings:
+  writings:
     output: true
     permalink: /:year/:month/:day/:slug
-  posts.travels:
+  travels:
     output: true
     permalink: /:year/:month/:day/:slug
   
