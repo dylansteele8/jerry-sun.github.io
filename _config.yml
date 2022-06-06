@@ -36,15 +36,14 @@ plugins:
 
 collections:
   pages:
-    output: true
+    output: false
     permalink: /:name
-  posts:
-    writings:
-      output: true
-      permalink: /:year/:month/:day/:slug       
-    travels:
-      output: true
-      permalink: /:year/:month/:day/:slug
+  writings:
+    output: true
+    permalink: /:year/:month/:day/:slug       
+  travels:
+    output: true
+    permalink: /:year/:month/:day/:slug
   
 defaults:
   -
