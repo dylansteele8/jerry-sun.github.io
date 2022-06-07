@@ -3,7 +3,6 @@ layout: null
 ---
 [
   {% for post in site.posts %}
-    {% if post.path contains 'writings'%}
       {
 
         "title"    : "{{ post.title | strip_html | escape }}",
@@ -14,19 +13,5 @@ layout: null
         "date"     : "{{ post.date }}"
 
       } {% unless forloop.last %},{% endunless %}
-    {% endif %}
-
-    {% if post.path contains 'travels'%}
-      {
-
-        "title"    : "{{ post.title | strip_html | escape }}",
-        "description" : "{{ post.description | escape }}",
-        "url"      : "{{ site.baseurl }}{{ post.url }}",
-        "category" : "{{post.categories | join: ', '}}",
-        "tags"     : "{{ post.tags | join: ', ' }}",
-        "date"     : "{{ post.date }}"
-
-      } {% unless forloop.last %},{% endunless %}
-    {% endif %}
   {% endfor %}
 ]

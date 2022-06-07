@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Sidey</title>
+ <title>JS</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-01-30T20:11:37+02:00</updated>
+ <updated>2022-06-06T23:18:50-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -13,387 +13,363 @@
 
  
  <entry>
-   <title>Difference between font formats</title>
-   <link href="http://localhost:4000/2019/08/31/difference-between-font-formats"/>
-   <updated>2019-08-31T00:00:00+03:00</updated>
-   <id>http://localhost:4000/2019/08/31/difference-between-font-formats</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
-
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
-
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
-
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
-
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+   <title>Test File</title>
+   <link href="http://localhost:4000/2022/06/01/test"/>
+   <updated>2022-06-01T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2022/06/01/test</id>
+   <content type="html">&lt;p&gt;Testing to see if this works.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Staticman comments on a Jekyll site</title>
-   <link href="http://localhost:4000/2019/07/23/staticman-comments-on-a-jekyll-site"/>
-   <updated>2019-07-23T00:00:00+03:00</updated>
-   <id>http://localhost:4000/2019/07/23/staticman-comments-on-a-jekyll-site</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+   <title>Our Attention Economy is Everywhere... Even for War</title>
+   <link href="http://localhost:4000/2022/03/13/our-attention-economy-even-for-war"/>
+   <updated>2022-03-13T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2022/03/13/our-attention-economy-even-for-war</id>
+   <content type="html">&lt;p&gt;Happy Sunday evening. Another post on my mind as it relates to Ukraine’s ongoing fight.&lt;/p&gt;
 
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+&lt;p&gt;I’ve been tracking Reddit’s live update of the war since Feb 25th or so, a day after Putin announced his invasion on live TV. A close friend sent it to me and I thought it was one of the easiest ways to receive updates in one place.&lt;/p&gt;
 
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+&lt;p&gt;What struck me the was the number of live viewers getting updates through the website. More specifically, how that number has gone down in the days since late-February. I wish I had the exact numbers but I distinctly remember 25,000 or so live followers. (The methodology is unclear but I assume it’s people with the website pulled up)&lt;/p&gt;
 
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+&lt;p&gt;Last week, on March 9th, I saw there were only 10,835. I’m checking now in the evening of March 13th and seeing 5,178. Now obviously, this isn’t a scientific experiment and time of day matters, as do other variables, but I think it’s safe to say there’s a clear trend.&lt;/p&gt;
 
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+&lt;p&gt;I don’t really have any sort of major takeaway from it other than I’m reminded how much of our lives are directed by the attention economy. We care about the topic but over time our focus fades, even if the war doesn’t. And in many ways, the media guides us towards the topic du jour where we debate, discuss, postulate - and then we move onto the next subject.&lt;/p&gt;
+
+&lt;p&gt;We are so fortunate we’re not the ones in Kyiv, or Mariupol, where supposedly thousands of civilians have been bombed to death, or any other Ukrainian city. A good reminder of how lucky we are came from this NY Magazine &lt;a href=&quot;https://nymag.com/intelligencer/article/ukraine-war-diary.html?utm_medium=s1&amp;amp;utm_campaign=nym&amp;amp;utm_source=tw&quot;&gt;piece&lt;/a&gt; sharing the personal stories of 30 residents currently living Ukraine. Reading how their lives have changed is so sad.&lt;/p&gt;
+
+&lt;p&gt;Such a stark difference between us - we, in our beds, under our covers, interested in the war until one day it becomes old news; and them, hiding in shelters and sleeping in their coats and shoes, falling asleep to the sound of shelling, with no end in sight.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Adding HTTP response headers to a Netlify static website</title>
-   <link href="http://localhost:4000/2019/05/23/adding-http-response-headers-to-a-netlify-static-website"/>
-   <updated>2019-05-23T00:00:00+03:00</updated>
-   <id>http://localhost:4000/2019/05/23/adding-http-response-headers-to-a-netlify-static-website</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+   <title>Airdrops Inbound for the War...Crypto Airdrops, I Mean</title>
+   <link href="http://localhost:4000/2022/03/02/ukranian-airdrop-incoming"/>
+   <updated>2022-03-02T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2022/03/02/ukranian-airdrop-incoming</id>
+   <content type="html">&lt;p&gt;Late last night in the United States, the official Ukraine Twitter account – which has been attacking Russia online the way millennials know how in the 21st century, through memes – announced donations to the recently set up Ukrainian crypto account would be airdropped with some token. The news was a lot to process and unsurprisingly, the crypto community was left amused and shocked.&lt;/p&gt;
 
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+&lt;p&gt;Let’s break things down here. First off, this is crazy. I mean, this is a country we’re talking about here, not a crypto protocol. Second, there’s a war going on, for Christ’s sake! People in crypto joke about hanging out in a weird, separate corner of the Internet but this airdrop thing has officially made it big time. I still believe we’re early but at the same time, are we really?&lt;/p&gt;
 
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+&lt;p&gt;Now, this could totally be me being uninformed but does anybody know exactly how these funds will be used? Are they to buy weapons? Are they for humanitarian aid? Are the end users soldiers or terrorized Ukranian civilians? Typically when donations come into play, people like to get some more detail before making decisions but these are, to repeat once again, very serious times.&lt;/p&gt;
 
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+&lt;p&gt;You can take a look at this Dune Analytics &lt;a href=&quot;https://dune.xyz/leoubbiali/Ukraine-ETH-Donations&quot;&gt;dashboard&lt;/a&gt; by @leoubbiali showing the hour-by-hour breakdown of ETH donated to the account. Note, it seems like Ukraine is running multiple wallets for each of the various networks (Bitcoin, Polkadot, and I believe Solana donations are all accepted) so the dashboard isn’t going to show total donations. But it does reflect trends and a significant surge in donations was observed today as compared to previous days.&lt;/p&gt;
 
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+&lt;p&gt;What does that tell us? Clearly people care more about the rewards (airdrop) than the actual cause. Sadly, donors giving money purely from the goodness of their heart are few and far between…&lt;/p&gt;
+
+&lt;p&gt;Rekt did a &lt;a href=&quot;https://rekt.news/airdrop-siren/&quot;&gt;piece&lt;/a&gt; on the future implications of airdrops now that they’re outside the realm of crypto-native projects. This was their takeaway:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The sudden increase in donations after the confirmation of an airdrop has left many critical of the motives of the post-announcement donors, suggesting that donating should never come with any ulterior motive.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We will never know what percentage of these donors are seeking profit, and which were simply encouraged by a promise of public proof of support.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;After all, it seems unlikely that the airdrop would have any monetary value, and perhaps it would be better that way.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Crypto users often operate within a self-created echo chamber, disconnected from reality, and in this situation, that has had a positive result.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;However, this will not be the last politically flavoured airdrop. Public greed can be frictionlessly utilised thanks to Web 3.0, and it would not be surprising to see this technique influence an election in the future.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;How will this change the way we live our life? Who knows. Welcome to our new world, I suppose.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Syntax highlight with Rouge in Jekyll</title>
-   <link href="http://localhost:4000/2018/12/23/syntax-highlight-with-rouge-in-jekyll"/>
-   <updated>2018-12-23T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2018/12/23/syntax-highlight-with-rouge-in-jekyll</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+   <title>Ukraine Conflict Doesn't Help Global Freight</title>
+   <link href="http://localhost:4000/2022/02/28/ukraine-war-bitcoin-accounts-soaring"/>
+   <updated>2022-02-28T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2022/02/28/ukraine-war-bitcoin-accounts-soaring</id>
+   <content type="html">&lt;p&gt;Today is the last day of February. One of the most dreary months of the year. Days only get better from here on out.&lt;/p&gt;
 
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+&lt;p&gt;Unfortunately the same can’t be said about the outlook for 2022. We already had worries about inflation and now the Ukraine saga doesn’t make things any better. At this rate, the 2020s are going to be as bad as the 1930s.  Yikes.&lt;/p&gt;
 
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+&lt;p&gt;If you get updates on the conflict in Ukraine, you might’ve seen Russia destroyed the world’s largest airplane. Based on unconfirmed reporting, the plane – named “Mriya”, or “Dream”, in Ukranian – had been stationed outside Kyiv for maintanence. During operation, the plane and others in the Antonov commercial fleet are typically used to shuttle around heavy lift equipment, such as power plants, outsized vehicles, aerospace components, and the like. Ukraine has announced it will rebuild the plane. The cost is projected to be around $5B but Kyiv has already said they will ask the Russian Federation to pay for the work.&lt;/p&gt;
 
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+&lt;p&gt;Seeing pictures of the plane had me thinking about the conflict’s impact on global freight. How many planes of such size are there in the world? What does closing Ukrainian airspace mean for the shipping industry?&lt;/p&gt;
 
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+&lt;p&gt;I came across this &lt;a href=&quot;https://www.flexport.com/blog/routes-not-jets-impact-of-ukraine-conflict-on-airfreight/&quot;&gt;post&lt;/a&gt; from Flexport, one of the world’s largest shipping companies, and it seems to describe the impact quite well. Here’s what the piece says about routing:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The most significant impact is the need for rerouting around the conflict zone, extending transit times, and increased carbon emissions”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The reduced air corridor space will likely lead to slower flight times. Flexport’s analysis of flights on six key trade routes from Asia to Northern Europe shows that average flight times have increased by 3.4% (range 0.6% to 6.9%) in the five days to February 28 compared to the December 1 through February 22 period”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is what was written about leftover freight capacity:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Flexport’s analysis of flight data, shown on the map above, indicates that 10 of Antonov’s 15 jets, accounting for 47% of its 1,410 tons of firm-wide payload and including AN-225, last landed in Kiev, Ukraine. However, only four of those planes have flown in 2022. The remaining five, all AN-124 class with 150 tons capacity each, have landed in Europe or the U.S. in the three days leading up to Feb. 27. Antonov may nonetheless face challenges in maintenance of its equipment outside Ukraine should spare parts only be available in Ukraine”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The 43 jets of the Volga-Dnepr Group (PERSONAL NOTE: Russian airlines), which includes AirBridgeCargo, features 27 Boeing and 11 Antonov jets. For Aeroflot, 82% of its fleet are Airbus or Boeing planes. The impact on global airfreight may be minimal given both airlines each represented less than 0.5% of global airfreight carried in 2019”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So general takeaway seems to be rerouting of deliveries is the biggest cost to the industry. You can add that to your list of greviences towards Vladimir Putin should your packages arrive late next month.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Page specific assets in Jekyll</title>
-   <link href="http://localhost:4000/2018/11/12/page-specific-assets-in-jekyll"/>
-   <updated>2018-11-12T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2018/11/12/page-specific-assets-in-jekyll</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+   <title>Digital Assets are Inevitable</title>
+   <link href="http://localhost:4000/2022/02/27/digital-assets-are-inevitable"/>
+   <updated>2022-02-27T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2022/02/27/digital-assets-are-inevitable</id>
+   <content type="html">&lt;p&gt;Happy Sunday.&lt;/p&gt;
 
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+&lt;p&gt;I didn’t intend to add another post to the growing list of ones about the metaverse, but it’s worth sharing this great &lt;a href=&quot;https://medium.com/coinmonks/nfts-101-why-nfts-are-a-generational-innovation-4626ae803e3b&quot;&gt;article&lt;/a&gt; about NFTs. Quick warning: I’s a two-hour read so it takes a good chunk of commitment to finish it. I think it’s worth it.&lt;/p&gt;
 
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+&lt;p&gt;The idea to share it comes from my friend’s group chat. One of the members, an avid gamer, doesn’t think highly of NFTs. And when I went to a party recently where a few of the others in the chat were at, I received a few “I don’t have much of an opinion because I don’t know enough about them” responses.&lt;/p&gt;
 
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+&lt;p&gt;I get it. These things are niche and frankly, if you thnk they are scams, I don’t blame you. The media hasn’t done a great job sharing the underlying investment theses behind NFTs and have chosen to focus on (currently) true issues like impact on climate change – that however, won’t even be applicable after the move to proof-of-stake goes live this year.&lt;/p&gt;
 
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.s&lt;/p&gt;
+&lt;p&gt;On the other hand, what people don’t hear about is the multi-layer rationale for why NFTs do exist. There’s the first level, represented by fads, profile pictures, generative hype, etc. I think that’s where most haters are. They see people making and losing money off the back of not just intangible value, but off the back of real scams.&lt;/p&gt;
+
+&lt;p&gt;Then there’s the second level: Understanding where supply, demand, and where value comes from. This is the stage where NFTs become closer to art and where Sotheby’s and Christie’s is selling Beeple works for millions of dollars and pricing their auctions in ETH.&lt;/p&gt;
+
+&lt;p&gt;The third level is where real-world value (for people like me) starts. I’ve written about the investment thesis behind blockchain gaming as an on-ramp for skeptics including our group chat-participant, gamer friend above. Alternatively, there’s &lt;a href=&quot;https://royal.io/&quot;&gt;Royal&lt;/a&gt; for music lovers. I’m not a BAYC afficionado but tokenholders receive access to eventspaces only for ape owners. We’re currently somewhere between level 2 and level 3 at the moment.&lt;/p&gt;
+
+&lt;p&gt;And finally, the fourth level starts to be where NFTs embody physical assets. Think about the tokenization of a bike. As I use in examples with friends, it could represent ownership of said physical bike. Get your bike stolen? The thief is not going to have the corresponding token that goes along with it and will have a harder time selling your bike on the market to honest people.&lt;/p&gt;
+
+&lt;p&gt;I didn’t intend to add this piece to the growing list of ones about digital assets around the corner, but typing it all together does feel like at this point it’s almost inevitable we’re going to live amidst a world where the line between physical assets and digital assets blur. Not in a real world meatspace way, but at least in terms of value and what ownership of each represent. Call it the early stages of the metaverse but as a society we’re already there. ‘Keeping Up with the Joneses’ and flex culture on Instagram is only the beginnning and there’s no going back.&lt;/p&gt;
+
+&lt;p&gt;Should you have the time, I do encourage you to read the article and let me know what you think.&lt;/p&gt;
+
+&lt;p&gt;Have a great week.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Jekyll reading time without plugins</title>
-   <link href="http://localhost:4000/2018/09/20/jekyll-reading-time-without-plugins"/>
-   <updated>2018-09-20T00:00:00+03:00</updated>
-   <id>http://localhost:4000/2018/09/20/jekyll-reading-time-without-plugins</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+   <title>Slavs, Hans, and a House Divided</title>
+   <link href="http://localhost:4000/2022/02/26/slavs-hans-house-divided"/>
+   <updated>2022-02-26T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2022/02/26/slavs-hans-house-divided</id>
+   <content type="html">&lt;p&gt;The conflict in Ukraine is unavoidable on the Internet and with it brings a host of takes. Most of them, I think, hit the nail on the head: War is devastating, citizens in both countries are victims, nothing good will happen from this.&lt;/p&gt;
 
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+&lt;p&gt;A bit of strategic analysis I keep seeing is how the war affects China’s relationship with Taiwan, ergo, because Russia is attacking Ukraine and the West &lt;em&gt;appears&lt;/em&gt; weak, that somehow China’s rumored invasion of Taiwan is going to be imminent. That seems flawed for a variety of reasons but I have no foresight on whether or not this will happen today, tomorrow, next year, or ever. What do I know? It’s difficult if not impossible to understand what the leaderhip in China is thinking.&lt;/p&gt;
 
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+&lt;p&gt;What I will note is it’s heartening to see many Russians protesting the war. Let’s be clear, this ongoing fight is not a war among people of differing cultures and backgrounds and experiences. Russians and Ukrainians are both Slavs; they are brothers and its unsurprising to read the morale of the young men, at least on the Russian side, is low. No Ukrainian wants to see Kyiv burn just as no Russian wants to see Kiev burn.&lt;/p&gt;
 
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
-
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+&lt;p&gt;I expect this to be the same between China and Taiwan should fighting break out. Residents living in the mainland have families in Taiwan and vice versa. There is a difference in ideology but I’ve always understood there to be a sense of family between the two regions. It would be a tragedy to see what’s happening today occur over the South China Sea. Though it’s too late for Slavs, we can still hope to never see a day of Hans fighting each other.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>How to add an RSS feed to a Jekyll blog</title>
-   <link href="http://localhost:4000/2018/09/11/how-to-add-an-rss-feed-to-a-jekyll-blog"/>
-   <updated>2018-09-11T00:00:00+03:00</updated>
-   <id>http://localhost:4000/2018/09/11/how-to-add-an-rss-feed-to-a-jekyll-blog</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+   <title>Why Do Some People Follow So Many Twitter Accounts?</title>
+   <link href="http://localhost:4000/2022/02/23/too-many-twitter-followers"/>
+   <updated>2022-02-23T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2022/02/23/too-many-twitter-followers</id>
+   <content type="html">&lt;p&gt;One thing I stumble upon periodically on Twitter is an account following several thousand other accounts. Which always strikes me as odd because how do you actually read everybody’s tweets?&lt;/p&gt;
 
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+&lt;p&gt;Twitter has two ways of curating feeds: chronological or “top tweets” first. The former is simply a stream of tweets from all accounts but the latter is usually a feed of tweets from accounts you engage with most. It’s a little like the TikTok feed where content you enjoy gets shown to you more and more frequently.&lt;/p&gt;
 
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+&lt;p&gt;If you do use the latter, I don’t understand how it’s advantageous to follow thousands of accounts. The app automatically locks into the top accounts you engage with and show more and more of those tweets. The remaining accounts are basically nonexistent on the feed.&lt;/p&gt;
 
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
-
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+&lt;p&gt;This issue is something that I can relate to personally and I only follow 800 accounts. Totally blows my mind people can do even more.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Top plugins for Wordpress websites</title>
-   <link href="http://localhost:4000/2018/08/18/top-plugins-for-wordpress-websites"/>
-   <updated>2018-08-18T00:00:00+03:00</updated>
-   <id>http://localhost:4000/2018/08/18/top-plugins-for-wordpress-websites</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+   <title>It Doesn't Pay to be a Pessimist</title>
+   <link href="http://localhost:4000/2022/02/22/it-doesnt-pay-to-be-a-pessimist"/>
+   <updated>2022-02-22T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2022/02/22/it-doesnt-pay-to-be-a-pessimist</id>
+   <content type="html">&lt;p&gt;The (Pessimists Archive)[https://pessimistsarchive.org/] has a history of successful ideas that were mocked by the public. It’s interesting to see what critics said about back then. I put out a Twitter thread highlighting some examples but it didn’t seem to get much traction:&lt;/p&gt;
 
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+&lt;p&gt;https://twitter.com/jerrysun_/status/1495859776332435465&lt;/p&gt;
 
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+&lt;p&gt;Some of the examples are well-known (e.g. people doubting airplanes, the Internet, mobile phones, etc.) but there’s a few that surprised me. For instance, did you know people once feared teddy bears would destroy the maternal instincts of young girls? Or that people once thought elevators moving too fast would cause a sort of “elevator sickness”?&lt;/p&gt;
 
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+&lt;p&gt;I was surprised to see how many article titles blamed a new invention for some societal problem. It was done with radio, elevators, television, etc.. It reminds me a little of people claiming today how social media is a big cause of crime or the root cause of demography’s failures or some other bold statement. That may be true by the way, I don’t know, but I don’t think we’ve changed much.&lt;/p&gt;
 
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+&lt;p&gt;There’s isn’t an overarching lesson to be learned from these critics. Cynics have always said ridiculous things but that doesn’t mean they’re always wrong either. Take what was said about TVs; even today, we recognize TVs as a time suck. Those who said the same thing decades ago were pretty spot on, though society as a whole probably benefitted from the leisure TVs added to our life.&lt;/p&gt;
+
+&lt;p&gt;It’s easy to tie this into Web3 but nobody knows if crypto is truly The Next Big Thing. As I write towards the end, the only real takeaway from this is highlighting once again the risk/reward profile of game-changing inventions. Mark Cuban once said in business you only need to be right about one or two things to be successful. Even if you miss on several new ideas, hitting on a few is usually enough to reoup the losses. For that reason alone, it’s probably better to be an optimist than a pessimist.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Install Jekyll on Mac OS</title>
-   <link href="http://localhost:4000/2018/06/14/install-jekyll-on-mac-os"/>
-   <updated>2018-06-14T00:00:00+03:00</updated>
-   <id>http://localhost:4000/2018/06/14/install-jekyll-on-mac-os</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+   <title>Does Tip Amount Match Output of Work?</title>
+   <link href="http://localhost:4000/2022/02/21/tipping-culture-output"/>
+   <updated>2022-02-21T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2022/02/21/tipping-culture-output</id>
+   <content type="html">&lt;p&gt;Happy Presidents Day to everyone. I just came back from a trip to Los Angeles this weekend, where among other things, I stayed at a hotel in Orange County.&lt;/p&gt;
 
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+&lt;p&gt;I used to stay at hotels quite often as a consultant on the road. Frankly I enjoy spending a few nights in a structured environment where I can work from my room or in the lobby in the evening. It’s a change of setting from an office or home. Plus, getting some extra features as a rewards member helps add to the experience.&lt;/p&gt;
 
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+&lt;p&gt;But one thing I noticed during this stay was the inequality of tips. Tipping culture in the US is a hot topic of debate. Who should receive tips? How much? Should we keep doing it – or if not, what’s the best way to stop?&lt;/p&gt;
 
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+&lt;p&gt;I noticed I was tipping wait staff at the hotel restaurant the expected amount. Mind you, this was even though a guest and I were using a voucher complimentary from the hotel. Because of the rewards member perk, I felt obligated to go above and beyond to justify a free meal.&lt;/p&gt;
 
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+&lt;p&gt;On the other hand, most people also tip housekeepers for cleaning the room. This can vary a little more than tips for wait staff, which typically range from 18- 25%, but from speaking with others, my understanding is most people tip about a few dollars a day.&lt;/p&gt;
+
+&lt;p&gt;Why do housekeepers get a flat rate while wait staff get a variable percentage of the total meal? Neither of the occupations vary in what they require the employee to do: Waiters serve food, clean the table, help answer questions; Housekeepers clean up the room and get it ready for the next day. But if someone spends more on food, the waiter earns even more. As another example, there’s a common tension between front-end restaurant workers (e.g. wait staff) and back-end employees (e.g. dishwaters) and the proper distribution of tips.&lt;/p&gt;
+
+&lt;p&gt;From a high level view, I could also make the argument housekeepers “do” more than waiters. How much time is needed to fully clean a room? How much time is needed in total to wait a table? Cleaning a room is a lot of work; so is serving customers at a restaurant but at least in my opinion, it’s not the same work.&lt;/p&gt;
+
+&lt;p&gt;At the end of the day, tipping is supplementary to what people make through their jobs. But as I went about my morning, I couldn’t help but question what I saw.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Applying the active class for the current page in Jekyll</title>
-   <link href="http://localhost:4000/2018/06/07/applying-the-active-class-for-the-current-page-in-jekyll"/>
-   <updated>2018-06-07T00:00:00+03:00</updated>
-   <id>http://localhost:4000/2018/06/07/applying-the-active-class-for-the-current-page-in-jekyll</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+   <title>A Renewable Source for Mining</title>
+   <link href="http://localhost:4000/2021/02/12/a-renewable-source-for-mining"/>
+   <updated>2021-02-12T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2021/02/12/a-renewable-source-for-mining</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Originally published in February 2021&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+&lt;p&gt;Some recent events have made me reflect on Crusoe Energy Systems, a startup first introduced to me seemingly forever ago around January 2020:&lt;/p&gt;
 
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A growing debate about Bitcoin’s consumption of energy&lt;/li&gt;
+  &lt;li&gt;China’s Bitcoin mining dominance, responsible for around 66% of the world’s total output&lt;/li&gt;
+  &lt;li&gt;Texas winter storms, which caused a spike in natural gas prices (and outrage at Jerry Jones)&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+&lt;p&gt;And how do these points tie together with Bitcoin and this company? Because Crusoe Energy’s business model is a smart, climate-beneficial, proof-of-work energy source.&lt;/p&gt;
+
+&lt;p&gt;The basic premise goes like this: Fracking produces oil along with excess gases. With no established pipelines near many fracking sites and high shipping costs, drillers have no choice but to burn the gasses into the atmosphere. Crusoe Energy found a way to convert that wasted power into electricity on-site and use the electricity to power remote computing services. Seems useful, right?&lt;/p&gt;
+
+&lt;p&gt;The criticism towards Bitcoin mining’s energy consumption feels rejuvenated on social media of late. No need to rehash the debate, aside from stating a fair assumption we’d all would like to see actionable solutions to make Bitcoin mining “cleaner”. Yes, mining for physical gold contributes to climate change. So does the printing and circulation of our current fiat system. But at the end of the day, Crusoe helps mitigate Bitcoin’s impact, if ever so slightly, so I’m down with it.&lt;/p&gt;
+
+&lt;p&gt;There is also a second reason to be excited, which is increase the hashing power in the United States. The US only accounts for roughly 7% of the world total, on par with other productive countries, but significantly behind China’s 66% referenced above. The centralization of Bitcoin mining leads to inherent risk. What if the Chinese government decided to crack down on Bitcoin mining, an activity it has so far refused to do, but could one day suddenly reverse? That would be devastating for the network and hurt the ability to validate transactions quickly.&lt;/p&gt;
+
+&lt;p&gt;Low electricity costs are the main reason China is leading significantly. It allows Chinese miners to function at peak efficiency and outlast foreign competitors. China uses a mix of “clean” hydraulic energy and “dirty” coal to power Bitcoin mining. With Crusoe, we have another opportunity to leverage technology for “clean” mining. Like many of you, I strongly believe Bitcoin has a future as a store of value. It is imperative for the United States to attract miners without sacrificing at the altar of climate change.&lt;/p&gt;
+
+&lt;p&gt;So, to recap – Bitcoin mining is energy-intensive, and we have a company with a creative strategy to take excess flared gas, convert that to electricity, and use it to safely mine Bitcoin. That sounds like a win-win proposal for two of the points above (sympathies to Texas…but not sorry to Jerry Jones).&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Displaying GitHub Gists in Jekyll sites</title>
-   <link href="http://localhost:4000/2018/05/13/displaying-github-gists-in-jekyll-sites"/>
-   <updated>2018-05-13T00:00:00+03:00</updated>
-   <id>http://localhost:4000/2018/05/13/displaying-github-gists-in-jekyll-sites</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+   <title>Coronavirus, Wuhan, and the Truth</title>
+   <link href="http://localhost:4000/2021/01/18/coronavirus-wuhan-and-the-truth"/>
+   <updated>2021-01-18T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2021/01/18/coronavirus-wuhan-and-the-truth</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Originally published in Jan 2021&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+&lt;p&gt;It’s hard to go anywhere without hearing my friends discuss the Coronavirus spreading throughout China and into other countries. And while widespread fear hasn’t arisen yet in the United States, it’s important for everybody to be cautious and prepared for the worst.&lt;/p&gt;
 
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+&lt;p&gt;To give some credit to China, the government seems to have learned from the SARS disaster and done a better job providing the international community with transparent updates from health workers on the ground. And while I do acknowledge their effort, I’m hesitant to give the country full credit for its response due to continued concerns about officials handling the fallout from the situation.&lt;/p&gt;
 
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+&lt;p&gt;For me, to understand people is to understand incentives. What drives someone to do something and what is your motive? China’s political structure is built in a way where government leaders are effectively incentivized to keep a spotless profile, deliver positive results, and most importantly, avoid bad attention. Viral stories showcasing negative headlines can single-handedly derail career advancement for municipal-level officials, and pandemics, by nature, spread fear expeditiously among the populace. So while I’m not accusing officials of misleading reporting, it is, hence, hard for me to trust Chinese officials not to downplay the numbers of infected patients. If they are doing so, here are some thoughts.&lt;/p&gt;
+
+&lt;p&gt;A few days ago, I stumbled across an article called &lt;a href=&quot;https://a16z.com/2017/07/27/how-to-tell-the-truth/&quot;&gt;“How to Tell the Truth”&lt;/a&gt; by the venture capitalist, Ben Horowitz. In the piece, he assumes a majority of people would describe themselves as honest. But he lists several scenarios where it’d be challenging to do so. Let’s take a look at some of his examples:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Sales are not going well. If you tell the company the truth, employees might rightly worry about the viability of the company and leave to go to another company. If they leave, you will surely continue to miss your numbers and introduce a spiral of under performance and attrition.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;The expense structure is too large for the business and you will likely have to do a layoff. The company isn’t doomed, but if you do a layoff, the press will write that you are doomed and employees will read it. If they read it, they will worry and leave and then you really will be doomed.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;An important executive just quit. If you tell the truth, people will wonder why and if they might have better options too.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;The product has a serious flaw that is causing customers to fail and causing you to lose deals. If your employees learn this, they may wonder why they are working for the number 2 company and not the company that’s beating you.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;The valuation on the last round was too high and you are looking at a down round. Your managers sold new hires on the promise of the old, higher stock price going even higher.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Let’s add: Your city of 11M people has fallen ill due to a potentially global health epidemic. The world is watching. You don’t have the resources needed to treat everyone who might be sick. If anybody hears the number of sick are significantly higher, pandemonium will occur.&lt;/p&gt;
+
+&lt;p&gt;Of course, experiencing startup failure and losing hundreds of lives aren’t comparable but I believe lessons can be gleaned from these two situations. Horowitz lays out a three-step solution:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;State the facts clearly and honestly  —  Don’t try to say that you needed to clean up performance issues or that the company is better off without the people that you so painstakingly hired. It is what it is and it’s important that everyone knows you know that.&lt;/li&gt;
+  &lt;li&gt;If you caused it, explain how such a bad thing could occur  –  What was the decision process that you used to expand the company faster than you should have? What did you learn that will prevent it from happening again?&lt;/li&gt;
+  &lt;li&gt;Explain why taking the action is essential to the larger mission and how important that mission is — A layoff, if done properly, is a new lease on life for the company and an action that was necessary to fulfill the prime directive and mission that everyone signed up for. As the leader, it’s your job to make sure that the company does not let those people lose their jobs for nothing. Something good needs to come out of it.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Startup founders and provincial leaders alike can apply these steps to foster transparency. Sharing bad news is scary but finding a larger purpose behind everyday efforts can encourage those who are afraid to face those fears with purpose. To prove his point, Horowitz chooses Abraham Lincoln’s Gettysburg Address as a historical example. With the reaffirmed notion that all men are created equal, Union soldiers persevered their fight and all Americans today attribute that idea as a fundamental life value.&lt;/p&gt;
+
+&lt;p&gt;I understand leading Wuhan today isn’t an enviable position to hold. But the Coronavirus also presents China with the opportunity to shed some of the past criticisms associated with its government. Demonstrating full honesty allows the country to affirm its new self-confidence gained under the Xi Jinping-era and shed its long-lasting insecurities as a poor, weak country. By refusing to hide behind falseholds, China will be standing stronger on the world st&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Disable Jekyll's default syntax highlighter Rouge</title>
-   <link href="http://localhost:4000/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge"/>
-   <updated>2018-02-05T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+   <title>AA 1356, In Memorandum</title>
+   <link href="http://localhost:4000/2019/08/01/aa1356-in-memorandum"/>
+   <updated>2019-08-01T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2019/08/01/aa1356-in-memorandum</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Originally published in August 2019&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+&lt;p&gt;I woke up this morning in a hotel expecting to take an early afternoon American nonstop flight from Albuquerque to Chicago. Yet somehow, it’s 11:30 PM and I’ve found myself a thousand miles away in Denver about to take a United flight. Wild.&lt;/p&gt;
 
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+&lt;p&gt;So here I am, sitting on a worn chair at the end of this airport terminal. There’s a few strangers nearby browsing their phones while straddling the line between sanity and deliriousness. I wonder what they’re scrolling through. Others are sleeping on the ground, clutching their possessions like a toddler protecting her toys. Are they not afraid of getting their stuff stolen? What about how dirty the ground is? Brave.&lt;/p&gt;
 
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+&lt;p&gt;I notice I always seem to end up here. One of my favorite trips with friends involved laying over at this airport. On the other hand, I recall another nasty flight cancellation when a serious snowstorm passed through Denver some day in early May on my way back home from college - seriously, how can there be a blizzard in May?&lt;/p&gt;
+
+&lt;p&gt;Let’s say I have a love/hate relationship with this place. Today’s manifestation of that relationship - and with airlines in general - is of the latter.&lt;/p&gt;
+
+&lt;p&gt;Rewind back several hours. My original flight got canceled due to stormy weather on the inbound flight. Quite truthfully, it’s no big deal. Getting home a few hours past usual doesn’t even register as a tremor on the scale of life problems. Not specifically my life problems, but in the grand scheme of things. Neglible.&lt;/p&gt;
+
+&lt;p&gt;Of course, I wasn’t the only one on my team who had a flight canceled today. Everybody who lives in Chicago had to undergo the same panic this morning. We all woke up at the same hotel at the same time. Look at where we ended up. They’ve all arrived home by now, sleeping soundly in their own bed. I drew the short end of the stick. Unlucky.&lt;/p&gt;
+
+&lt;p&gt;The person on the other end of the phone working Customer Service at American Airlines was a nice lady named Karen. I had to wait an hour to speak with her to change my flight. Twice. Then she had to wait an hour to speak with the United Airlines rep to put me on a new flight. Twice. Almost four hours in total. I don’t care if you are Christian, Jewish, Muslim, Agnostic, or Capitalist. Whichever God you pray to, he doesn’t want to get involved in this. Lawless.&lt;/p&gt;
+
+&lt;p&gt;At long last, we’re beginning to board for this second leg. I don’t have a seat so I have to go to the gate counter to ask for one. I always wait until the end to go up and ask for a seat. I assume by then most of the seats in the back are filled so they have to start giving out premium ones. I have no idea if that’s how it works, but sure enough, I get put in Economy Plus. I notice they didn’t give me my usual window seat preference to rest my head against. If anybody can hear me, please cue up Jesse McCartney’s “How Do You Sleep?”.&lt;/p&gt;
+
+&lt;p&gt;On second thought, I might be stuck in middle seat purgatory but 7th row ensures I’ll be among the first quartile to deplane. Blessed.&lt;/p&gt;
+
+&lt;p&gt;The guy sitting on my right is watching House of Cards on his iPad. I think I see Kate Mara. Is this Season One? That was forever ago. I can hear the audio. We’re on a plane. He’s got headphones in but it certainly doesn’t sound that way at all.&lt;/p&gt;
+
+&lt;p&gt;I take a quick glimpse over at the guy sitting to my left. He’s scrolling Instagram. I look back and look over again. Now it’s Clash Royale. He realizes I’m preparing to stow my laptop away for takeoff and tells me it’s not a safety hazard so I don’t actually need to put it away. Are you kidding me? Sir, it’s midnight and I’m almost home. Best not turn back now.&lt;/p&gt;
+
+&lt;p&gt;He cranes his neck, looks past the barrier separating Economy Plus and First Class. “Oh look, there’s a spot left in First Class. Wonder if I can get it”, he ponders out loud in a slightly high-pitched voice. Then he leans over to me and whispers, “That’s what happens when you fly every week”.&lt;/p&gt;
+
+&lt;p&gt;Oh, don’t I know buddy. Don’t I know…&lt;/p&gt;
+
+&lt;p&gt;The flight attendant comes by asking for our drink order. My seatmates both order an alcoholic drink. I think one of them is a Rum and Coke. She looks at me, expecting a similar request. Laughable. I’ll stick with ginger ale.&lt;/p&gt;
+
+&lt;p&gt;Thank goodness we’ve finally landed. Now it’s past 3:00 AM and I’m in a new time zone. A part of me fears I won’t be able to find an Uber or Lyft driver nearby this early in the morning but, miraculously, I do. There’s a few office lights flickering amidst the skyscrapers on the horizon, the only sign at this decrepit hour of a bustling metropolis during the day. I presume the employees inside must be real office warriors. Tenacious.&lt;/p&gt;
+
+&lt;p&gt;I see my front door. I’ve made it. I shower and slowly crawl into bed.&lt;/p&gt;
+
+&lt;p&gt;It took a roundabout trip but I’ve finally ended up in the same place as all my teammates. And is it the end or the journey that matters? Does it even matter? You decide.&lt;/p&gt;
+
+&lt;p&gt;Rest in peace, AA 1356. Truth be told, I hardly got to know you.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Image caption in Jekyll</title>
-   <link href="http://localhost:4000/2018/02/03/image-captions-in-jekyll"/>
-   <updated>2018-02-03T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2018/02/03/image-captions-in-jekyll</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+   <title>Revisiting Bitcoin</title>
+   <link href="http://localhost:4000/2018/03/31/revisiting-bitcoin"/>
+   <updated>2018-03-31T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2018/03/31/revisiting-bitcoin</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Originally published March 2018&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+&lt;p&gt;I wonder how Maria Lomeli is doing.&lt;/p&gt;
 
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+&lt;p&gt;You may not realize it but today marks three and a half months since the height of the Bitcoin bubble. On December 16th, the cryptocurrency hit peak value, with one BTC worth more than $19,300. A month later, on January 13th, the New York Times published an article titled “&lt;a href=&quot;https://mobile.nytimes.com/2018/01/13/style/bitcoin-millionaires.html?referer=https://apple.news/AHtMIbpIwS1WHJ1pBrk5vEA&quot;&gt;Everyone is Getting Hilariously Rich and You’re Not&lt;/a&gt;“. It’s a manifesto to those who believe in the value of the currency. It’s also led to some disillusionment on my behalf.&lt;/p&gt;
 
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+&lt;p&gt;Cryptocurrency originated as an experiment in ledger decentralization. Was there a way to build a recordkeeping system that could guarantee trust among all its users? In 2009, the foundations of cryptocurrency, the blockchain, was created to solve that question. Over the past few years, developers worked to enhance the idea, but recently, a fraction have grown critical of the varying agendas within the community. In fact, the developer Mike Hearn even wrote &lt;a href=&quot;https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7&quot;&gt;this&lt;/a&gt; widely circulated Medium post announcing Bitcoin as a “failed” experiment. As skepticism grew, recent enthusiasm was spurred by individuals looking to profit off the invention.&lt;/p&gt;
 
-</content>
- </entry>
- 
- <entry>
-   <title>Showing the word count in Jekyll</title>
-   <link href="http://localhost:4000/2018/01/17/showing-the-word-count"/>
-   <updated>2018-01-17T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2018/01/17/showing-the-word-count</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+&lt;p&gt;In the New York Times piece, the author profiles various people aiming to make money off the cryptocurrency craze. Small, telling details are provided if you look closely. These individuals, almost all male, are committed enough to base their entire life around cryptocurrency. They’re technology-savvy and imagine a new world order. Many met through the shared community and have known each other for a period of time. Mostly, they’re young enough to afford to take risks.&lt;/p&gt;
 
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+&lt;p&gt;A number of these proponents were early adopters who prospered from the world’s sudden interest. I imagine they also benefited from the recent media coverage.&lt;/p&gt;
 
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+&lt;p&gt;Of course, late arrivals are looking for an edge too, aren’t they? Although not mentioned in the article, cryptocurrency trading has been partially tainted with its connotation with pump-and-dump groups, which do little to deter fears of unpredictability. Participation in these groups require an upfront fee; once a member, individuals gain access to inside information of carefully planned market spikes. The closer you are to the center of knowledge the more profitable membership is. Later entrants into these pump-and-dump groups, bridging the chasm between the group’s core and general public, benefit less so. This system divides investors into two castes: If you don’t have access, then you’re on the outside looking in.&lt;/p&gt;
 
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+&lt;p&gt;The article concludes with a story about an individual, Maria Lomeli, who is attending the annual San Francisco Bitcoin Meetup Party. Ms. Lomeli is different than our millennials in one significant way: She is 56-year old. A housekeeper by trade, she appears just as excited as everyone else. After an initial investment yielded a positive return, she chose to ignore the advice of her children and entrusted another $10,000 of her savings alongside everyone else. Her defining quote? “Something is telling me I can trust this generation. My instinct is telling me this is the future.”&lt;/p&gt;
 
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Custom 404 page for Jekyll on Github pages</title>
-   <link href="http://localhost:4000/2017/11/15/custom-404-page-for-jekyll-on-github-pages"/>
-   <updated>2017-11-15T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2017/11/15/custom-404-page-for-jekyll-on-github-pages</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+&lt;p&gt;Maybe this is the future. I won’t question the potential of cryptocurrency or blockchain, but it’s equally important to remember the very real consequences bubbles cause.&lt;/p&gt;
 
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+&lt;p&gt;When Ms. Lomeli staked her savings, BTC was worth over $15,000, driven by the excitement of our aforementioned youth. It fell under $7,000 earlier this week.&lt;/p&gt;
 
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+&lt;p&gt;When will that future come?&lt;/p&gt;
 
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
-
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Redirect Jekyll URLs</title>
-   <link href="http://localhost:4000/2017/11/10/redirect-jekyll-urls"/>
-   <updated>2017-11-10T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2017/11/10/redirect-jekyll-urls</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
-
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
-
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
-
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
-
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Creating navigation menu in Jekyll</title>
-   <link href="http://localhost:4000/2017/01/03/creating-navigation-menu-in-jekyll"/>
-   <updated>2017-01-03T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2017/01/03/creating-navigation-menu-in-jekyll</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
-
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
-
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
-
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
-
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Structured Data markup validation and testing tools</title>
-   <link href="http://localhost:4000/2016/12/11/structured-data-markup-validation-and-testing-tools"/>
-   <updated>2016-12-11T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/12/11/structured-data-markup-validation-and-testing-tools</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
-
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
-
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
-
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
-
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Top monospaced fonts for coding</title>
-   <link href="http://localhost:4000/2016/11/27/top-monospaced-fonts-for-coding"/>
-   <updated>2016-11-27T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/11/27/top-monospaced-fonts-for-coding</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
-
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
-
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
-
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
-
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Places where you can learn how to code</title>
-   <link href="http://localhost:4000/2015/07/31/places-where-you-can-learn-how-to-code"/>
-   <updated>2015-07-31T00:00:00+03:00</updated>
-   <id>http://localhost:4000/2015/07/31/places-where-you-can-learn-how-to-code</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
-
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
-
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
-
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
-
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>CSS hacks you may not know</title>
-   <link href="http://localhost:4000/2014/05/12/css-hacks-you-may-not-know"/>
-   <updated>2014-05-12T00:00:00+03:00</updated>
-   <id>http://localhost:4000/2014/05/12/css-hacks-you-may-not-know</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
-
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
-
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
-
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
-
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.♫ { background: #222; color: #FFF; } 
-.ಠ_ಠ { background: #ccc; color: #fff; }
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
-
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
-
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
-
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
-
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;a { text-decoration: overline red wavy; }
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
-
-&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
-
-&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
-
-&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
-
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+&lt;p&gt;I think about her often.&lt;/p&gt;
 </content>
  </entry>
  
